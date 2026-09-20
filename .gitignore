@@ -1,0 +1,6 @@
+paper-analysis/intermediate/
+paper-analysis/results/
+slurm.*.out
+slurm.*.err
+.RData
+.Rhistory
