@@ -1,6 +1,6 @@
 # Hybrid pilot designs for sparse functional data
 
-This repository accompanies the paper **Pilot-Study Design for Functional Data Analysis: A Novel Hybrid Approach with Application to Mediterranean Fruit Fly Reproduction**.
+This repository accompanies the paper **Pilot-Study Design for Functional Data Analysis: A Novel Hybrid Approach with Application to Mediterranean Fruit Fly Reproduction**, currently under review.
 
 ## Repository structure
 
